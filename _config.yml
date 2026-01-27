@@ -23,17 +23,12 @@ repository: "AlwazH0ney/AlwazH0ney.github.io"  # update to your repo name
 author:
   avatar           : "profile.png"
   name             : "Muhammad Alwaz"
-  pronouns         : ""
   bio              : "Final-year CS (Data Science) student at Swinburne building applied AI systems for decision support: flood risk intelligence, predictive maintenance, and ML pipelines."
   location         : "Melbourne, VIC, Australia"
   employer         : "Swinburne University of Technology"
-  uri              : ""
   email            : "104815855@student.swin.edu.au"
 
   # Academic websites
-    googlescholar    :""
-  orcid            :""
-  pubmed           :""
   github           : "AlwazH0ney"
   linkedin         : "muhammad-alwaz-85402320b"
 
